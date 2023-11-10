@@ -3,7 +3,8 @@
 #Manipulating Image Properties using JS 
 
 <h2>Image with background color and Spanned Text changed </h2>
-![image](https://github.com/RMUR99/Image-Controller/assets/85951306/e7d48db3-cbd7-4752-90f3-928f197161e7)
+![image](https://github.com/RMUR99/Image-Controller/assets/85951306/fdb043cb-0d65-4b93-a62f-c6ade558817e)
+
 
 <h2>Image with Spacing + Blur Affect </h2>
 ![image](https://github.com/RMUR99/Image-Controller/assets/85951306/871d2d40-f363-4be5-9734-7738e4565638)

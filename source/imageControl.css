@@ -1,0 +1,57 @@
+html , body {
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+    overflow: hidden;
+    
+    
+}
+body{
+    background-image: url(https://img.freepik.com/premium-vector/space-background-with-realistic-nebula-stardust-shining-star-galaxy-universe-starry-night-sky-vector_751643-543.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+:root{
+    --Base : rgb(0, 4, 241); 
+    --Spacing : 0px; 
+    --Blur : 0px ; 
+
+}
+
+.IMAGE {
+
+    width: 500px;
+    padding: var(--Spacing);
+    background: var(--Base);
+    filter: blur(var(--Blur));
+   }
+
+
+.spanned{
+    color: var(--Base);
+}
+
+.container {
+   
+    display: grid ;
+    grid-template-areas: 
+     "header1 , header1 , header1",
+     "header2, header2 , header2 ",
+    " header3 , header3 , header3",
+     "content , content , content" 
+    ;
+
+
+}
+
+.header1 , .header2 , .header3{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 50px;
+   margin-bottom: 50px;
+   margin-top: 30px;
+   display: inline;
+
+}
+

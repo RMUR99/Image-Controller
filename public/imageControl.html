@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Controller</title>
+    <link rel="stylesheet " href="/source/imageControl.css"> 
+</head>
+<body>
+    <h1>This is the image controller
+
+        <span class="spanned">Using JS </span>
+    </h1>
+
+    <div class="container">
+
+        <div class = "header1">
+        
+         <label for="Spacing">Spacing</label>
+         <input type="range" name ="Spacing"  min="0" max="500" value= "0" data-sizing="px"></input>
+        </div>
+
+         <!-- //Blur -->
+
+         <div class ="header2">
+         <label for="Blur">Blur</label>
+         <input type="range" name ="Blur" min="0" max="500"  value= "0" data-sizing ="px"></input>
+
+        </div>
+         <!-- end of blur  -->
+        <div class = header3 >
+         <label for="Base ">Base Colors</label>
+         <input type="color" name ="Base" value= "rgb(0, 4, 241)" data-sizing="" ></input>
+         </div>
+
+         <div class = content >
+         <img class="IMAGE" src="https://www.usnews.com/cmsmedia/16/67/aa165a9f44e6bfab8b3b0ed62395/210719-spacewalk-editorial.jpg"></img>
+         </div>
+       
+
+
+
+        </div>
+
+
+
+    </div>
+
+    <Script src="/source/imageControl.js"></Script>
+</body>
+</html>

@@ -11,10 +11,11 @@
 i have personally faced some issues and here is how to solve them :
 1) Blur not working
    - ensure that your var will include filter: blur(var(--Blur)); make 2 brakets
-   - make sure that you dont forget a semi colon
+   - make sure that you dont forget a semicolon
 2) Default value is not to 0 and it is in the middle of the screen
-    -Make sure that you dont forget to set a value = 0 , and min and max as well
-3) The spanned text and background colors are not changeing
+    -Make sure that you dont forget to set a value = 0
+   
+4) The spanned text and background colors are not changeing
     - make sure when you write the class name that you dont have any spaces so the CSS can recongize it ( mind the case and spacing please )
     - name = "Base"(Correct)
     - name = "Base " ( Wrong )

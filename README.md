@@ -13,7 +13,13 @@
 
 
 <h2>Image with Spacing + Blur Affect </h2>
-![image](https://github.com/RMUR99/Image-Controller/assets/85951306/871d2d40-f363-4be5-9734-7738e4565638)
+<h1 align="center">
+  <br>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85951306/282192746-871d2d40-f363-4be5-9734-7738e4565638.png" alt="readme-image" width="800">
+  <br>
+</h1>
+
+
 
 i have personally faced some issues and here is how to solve them :
 1) Blur not working

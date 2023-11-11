@@ -3,7 +3,13 @@
 #Manipulating Image Properties using JS 
 
 <h2>Image with background color and Spanned Text changed </h2>
-![image](https://github.com/RMUR99/Image-Controller/assets/85951306/fdb043cb-0d65-4b93-a62f-c6ade558817e)
+<h1 align="center">
+  <br>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85951306/282193744-fdb043cb-0d65-4b93-a62f-c6ade558817e.png" alt="readme-image" width="800">
+  <br>
+</h1>
+
+
 
 
 <h2>Image with Spacing + Blur Affect </h2>

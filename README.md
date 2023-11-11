@@ -27,7 +27,7 @@ i have personally faced some issues and here is how to solve them :
    - make sure that you dont forget a semicolon
      
 2) Default value is not to 0 and it is in the middle of the screen
-    -Make sure that you dont forget to set a value = 0
+    - Make sure that you dont forget to set a value = 0
    
 3) The spanned text and background colors are not changeing
     - make sure when you write the class name that you dont have any spaces so the CSS can recongize it ( mind the case and spacing please )
